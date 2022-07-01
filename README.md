@@ -1,7 +1,7 @@
 ```java
 public class Youssef-Azijni extends GitHubUser {
 
-  public GekkeGlenn() {
+  public YoussefAzijni() {
     super("Youssef-Azijni", "Netherlands");
 
     this.addTopLanguages("PHP", "Java")
