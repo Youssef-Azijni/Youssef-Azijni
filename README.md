@@ -5,8 +5,8 @@ public class Youssef-Azijni extends GitHubUser {
     super("Youssef-Azijni", "Netherlands");
 
     this.addTopLanguages("PHP", "Java")
-    this.addLanguage("html", "css", "javascript", "nodejs");
-    this.AddFrameWorks("Laravel", "Tailwindcss");
+    this.addLanguage("html", "css", "python", "C#");
+    this.AddFrameWorks("Laravel", "Kotlin");
   }
 }
 
